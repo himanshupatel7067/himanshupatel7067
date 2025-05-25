@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himanshu Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FRy6p&psig=AOvVaw2997IkrVs-ZK0eaap-bomc&ust=1748259269626000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCICypLzDvo0DFQAAAAAdAAAAABAE">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshupatel7067&label=Profile%20views&color=0e75b6&style=flat" alt="himanshupatel7067" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himanshupatel7067" alt="himanshupatel7067" /></a> </p>
 
 - 🌱 I’m currently learning **DSA, Web Development**
 
