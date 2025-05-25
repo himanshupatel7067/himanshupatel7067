@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Himanshu Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://i.gifer.com/Ry6p.gif" width="350" align="right">
+<img src="[https://i.gifer.com/Ry6p.gif](https://vilrotech.com/wp-content/uploads/2023/04/design-uiux-services.gif)" width="350" align="right">
 
 - 🌱 I’m currently learning **DSA, Web Development**
 
