@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/himanshu-patel-623774253](https://www.linkedin.com/in/himanshu-patel-623774253)
 
-- 💬 Ask me about **Front-End Web Development HTML,CSS,JAVASCRIPT,C++ Progamming Basic**
+- 💬 Ask me about:<br> **Front-End Web Development HTML,CSS,JAVASCRIPT,C++ Progamming Basic**
 
 - 📫 How to reach me **himanshupatel7067@gmail.com**
 
