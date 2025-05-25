@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/himanshu-patel-623774253](https://www.linkedin.com/in/himanshu-patel-623774253)
 
-- 💬 Ask me about:<br> **Front-End Web Development HTML,CSS,JAVASCRIPT,C++ Progamming Basic**
+- 💬 Ask me about:<br> Hi, I'm Himanshu patel a passionate Front-End Developer focused on building responsive and user-friendly web interfaces using HTML, CSS, JavaScript, and React. Currently learning advanced React and exploring full-stack development. Open to collaboration and freelancing projects.
 
 - 📫 How to reach me **himanshupatel7067@gmail.com**
 
